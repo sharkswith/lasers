@@ -1,1 +1,2 @@
 # lasers
+![](quotes.gif)
